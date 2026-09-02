@@ -1,0 +1,6 @@
+[submodule "assignments/ngram"]
+	path = assignments/ngram
+	url = https://git.cs.grinnell.edu/csc213/ngram.git
+[submodule "exercises/debugging"]
+	path = exercises/debugging
+	url = https://git.cs.grinnell.edu/csc213/debugging
